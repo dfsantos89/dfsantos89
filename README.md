@@ -9,6 +9,7 @@ Com uma boa experiência com JavaScript/HTML/CSS, estou atualmente estudando tec
 Alguns projetos que foram desenvolvidos por mim:
 
 NLW#5 - Sistema de Podcasts feito em React na NLW da Rocketseat
+
 https://rocketseat-podcastr.vercel.app/
 
 NLW#5 - Port do sistema de Podcasts feito em Svelte
